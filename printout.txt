@@ -1,0 +1,6 @@
+#{f}
+import random
+import time
+random.seed(time.time())
+arr={s}
+print(arr[random.randint(0, len(arr)-1)])
